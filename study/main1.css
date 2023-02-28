@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'PyeongChangPeace-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-02@1.0/PyeongChangPeace-Bold.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+#title {
+    color:red;
+    font-family: 'East Sea Dokdo', cursive;
+    font-size:200%
+}
+.title2 {
+    font-size: 150%
+}
+
+p > .title4 {
+    color:hotpink
+}
+
+.layout {
+    background-color: darkorange;
+    width:300px;
+    height:300px;
+    border: 5px dotted #1b4fa2;
+    border-radius: 100px;
+    text-align:center;
+
+}
+
+.title5 {
+    color:white;
+    font-size:200%;
+    font-weight: 900;
+    margin-top: 100px;
+    font-family: 'PyeongChangPeace-Bold'
+    
+}
